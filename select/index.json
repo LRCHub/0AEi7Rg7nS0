@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Bored",
+  "base_artist": "Laufey",
+  "createdAt": "2025-12-30T05:04:23.750385Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "artist": "Wallows feat. Clairo",
+      "has_synced": true,
+      "path": "select/01_Are_You_Bored_Yet__(feat._Clairo)_Wallows_feat._Clairo.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "artist": "Wallows;Clairo",
+      "has_synced": true,
+      "path": "select/02_Are_You_Bored_Yet__(feat._Clairo)_Wallows;Clairo.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Are You Bored Yet? (feat. Clairo)",
+      "artist": "Wallows",
+      "has_synced": true,
+      "path": "select/03_Are_You_Bored_Yet__(feat._Clairo)_Wallows.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I am Bored",
+      "artist": "The Microphones",
+      "has_synced": false,
+      "path": "select/04_I_am_Bored_The_Microphones.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "break up with your girlfriend, i'm bored",
+      "artist": "Ariana Grande",
+      "has_synced": true,
+      "path": "select/05_break_up_with_your_girlfriend,_i'm_bored_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Machine Is Bored With Love",
+      "artist": "Add N to (X)",
+      "has_synced": false,
+      "path": "select/06_Machine_Is_Bored_With_Love_Add_N_to_(X).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Cool And Bored",
+      "artist": "LCMDF",
+      "has_synced": false,
+      "path": "select/07_Cool_And_Bored_LCMDF.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Cool and Bored",
+      "artist": "LCMDF",
+      "has_synced": true,
+      "path": "select/08_Cool_and_Bored_LCMDF.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "You're Bored",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/09_You're_Bored_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bored",
+      "artist": "The Notwist",
+      "has_synced": false,
+      "path": "select/10_Bored_The_Notwist.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'm So Bored with the U.S.A.",
+      "artist": "The Clash",
+      "has_synced": true,
+      "path": "select/11_I'm_So_Bored_with_the_U.S.A._The_Clash.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Anthem for Bored Youth",
+      "artist": "The Divine Comedy",
+      "has_synced": false,
+      "path": "select/12_Anthem_for_Bored_Youth_The_Divine_Comedy.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "When You're Bored",
+      "artist": "Joywave",
+      "has_synced": true,
+      "path": "select/13_When_You're_Bored_Joywave.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bored in the USA",
+      "artist": "Father John Misty",
+      "has_synced": true,
+      "path": "select/14_Bored_in_the_USA_Father_John_Misty.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bored",
+      "artist": "Girls In Hawaii",
+      "has_synced": true,
+      "path": "select/15_Bored_Girls_In_Hawaii.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bored 'Til Death",
+      "artist": "Murderdolls",
+      "has_synced": false,
+      "path": "select/16_Bored_'Til_Death_Murderdolls.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "It's Easy to Get Bored",
+      "artist": "Helmet",
+      "has_synced": true,
+      "path": "select/17_It's_Easy_to_Get_Bored_Helmet.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Bored to Death",
+      "artist": "Blink-182",
+      "has_synced": true,
+      "path": "select/18_Bored_to_Death_Blink-182.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Bored to Death - Acoustic",
+      "artist": "Blink-182",
+      "has_synced": true,
+      "path": "select/19_Bored_to_Death_-_Acoustic_Blink-182.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bored",
+      "artist": "Laufey",
+      "has_synced": false,
+      "path": "select/pl_01_Bored_Laufey.txt"
+    }
+  ]
+}
